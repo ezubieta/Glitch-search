@@ -1,4 +1,4 @@
-# Glitch-search
+# Glitch-search : Irregularities_detection
 Looking for mini-glitches with timing residuals
 
 This code access to n residuals and fits F0 and F1 if asked. Then it moves one residual and fits again.
